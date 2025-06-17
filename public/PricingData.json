@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Product Alpha",
+    "id": 1,
+    "price": 29.99,
+    "description": "A compact and eco-conscious product ideal for everyday use, combining convenience with sustainability.",
+    "features": [
+      "Lightweight",
+      "Eco-friendly",
+      "Affordable",
+      "Durable design"
+    ]
+  },
+  {
+    "name": "Service Beta",
+    "id": 2,
+    "price": 99.00,
+    "popular" : true,
+    "description": "A flexible subscription service with real-time support and secure, cloud-native infrastructure tailored for business growth.",
+    "features": [
+      "24/7 Support",
+      "Customizable",
+      "Cloud-based",
+      "Scalable plans",
+      "Data encryption"
+    ]
+  },
+  {
+    "name": "Tool Gamma",
+    "id": 3,
+    "price": 59.50,
+    "description": "A powerful productivity tool designed for professionals, featuring a clean interface, advanced performance, and cross-platform compatibility.",
+    "features": [
+      "High Precision",
+      "User-Friendly Interface",
+      "Multi-platform",
+      "Auto-updates",
+      "Dark mode support",
+      "Integrated shortcuts",
+      "Data encryption"
+    ]
+  }
+]

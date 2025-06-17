@@ -83,7 +83,6 @@ const Results = () => {
                 <YAxis></YAxis>
                 <Line dataKey="math"></Line>
                 <Line dataKey={'chemistry'} stroke="red"></Line>
-
             </LineChart>
             
         </div>
